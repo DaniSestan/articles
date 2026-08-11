@@ -1,13 +1,9 @@
-## [unreleased]
-
 ### 📚 Documentation
 
-- Added foobarbaz-v1.txt
-## [unreleased]
-## [unreleased]
-## [1.0.0] - 2026-08-10
-- Added articles 'Falling Out' and 'Communicating Scope of Work'
-- Adding foobarbaz.txt
-- Modified foobarbaz.txt
+- Modified foobarbaz-v1.txt
+- Adding foobarbaz-v1.txt
 - Deleting foobarbaz.txt
+- Modified foobarbaz.txt
+- Adding foobarbaz.txt
+- Added articles 'Falling Out' and 'Communicating Scope of Work'
 
