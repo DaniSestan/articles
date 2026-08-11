@@ -3,10 +3,10 @@
 ### 💼 Other
 
 - Added articles 'Falling Out' and 'Communicating Scope of Work'
-- Adding foobarbaz.txt
-- Deleting foobarbaz.txt
 
 ### 📚 Documentation
 
-- Pentesting process to use git-cliff for logging changes to CHANGELOG
+- Adding foobarbaz v0
+- Modified foobarbaz.txt
+
 ## [1.0.0] - 2026-08-10
